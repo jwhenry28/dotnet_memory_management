@@ -1,4 +1,4 @@
-# dotnet_memory_management
+# Dotnet Memory Management
 .NET Memory management
 
-test
+Accompanying code for [blog post](https://www.praetorian.com/blog/safeguarding-memory-in-higher-level-programming-languages/)
